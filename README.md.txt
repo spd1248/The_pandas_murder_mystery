@@ -209,8 +209,8 @@ Este proyecto fue desarrollado por:
 
 - **Sergio Parada Dommarco** - [spd1248](https://github.com/spd1248)
 - **Alain Medel Mejía** - [PhDSchrodinger](https://github.com/PhDSchrodinger)
-- **Yesica Méndez** - [](https://github.com/)
-- **Laura Sofía** - [](https://github.com/)
+- **Yesica Mendez Arocaz** - [YesikaMendez](https://github.com/YesikaMendez)
+- **Laura Sofia Rojas Muñoz** - [Sofirojas00](https://github.com/Sofirojas00)
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
